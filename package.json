@@ -1,0 +1,21 @@
+{
+  "name": "tt_poc",
+  "version": "1.0.0",
+  "description": "Using this repo to do POC for TT project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet — skipping.\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clear-route/TT_POC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/clear-route/TT_POC/issues"
+  },
+  "homepage": "https://github.com/clear-route/TT_POC#readme"
+}
